@@ -15,7 +15,7 @@ I'm interested in **entry-level opportunities** in software development, fronten
 ## 🔗 Connect with me
 
 - **Portfolio:** [sravan048.github.io](https://sravan048.github.io/)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sravan-kumar-28915931b/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sravan-kumar-b102441b5/)
 - **Email:** [sravankumar3113@gmail.com](mailto:sravankumar3113@gmail.com)
 
 ## 🛠️ Technical skills
